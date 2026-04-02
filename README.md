@@ -1,5 +1,5 @@
 # Fairbrix-Core-Wallet-V2.0.3
-Fairbrix Core Wallet v2.5.0 is the official full-node-wallet implementation for the Fairbrix (FBX) Scrypt blockchain. It enhances peer discovery and network stability through protocol version enforcement, without modifying consensus, mining, or monetary rules. GUI and CLI supported.
+Fairbrix Core Wallet v2.0.3 is the official full-node-wallet implementation for the Fairbrix (FBX) Scrypt blockchain. It enhances peer discovery and network stability through protocol version enforcement, without modifying consensus, mining, or monetary rules. GUI and CLI supported.
 ## Overview
 Fairbrix Core Wallet v2.0.3
 
